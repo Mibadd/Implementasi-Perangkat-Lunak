@@ -1,2 +1,2 @@
 # Implementasi-Perangkat-Lunak
-Tugas ini untuk memnuhi mata kuliah IPL
+Tugas ini untuk memenuhimata kuliah IPL
